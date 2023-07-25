@@ -1,0 +1,10 @@
+{
+  "index": "介绍",
+  "install": "安装",
+  "qa": "常见问题",
+  "github_link": {
+    "title": "Github",
+    "href": "https://github.com/Developer27149/Erin",
+    "newWindow": true
+  }
+}
