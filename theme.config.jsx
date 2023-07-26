@@ -8,6 +8,8 @@ export default {
   },
   head: (
     <>
+      <title>Erin - 极简的 chrome 新标签页插件</title>
+      <link rel="icon" type="image/x-icon" href="https://lh3.googleusercontent.com/LcAQ86qgz4NsdEhFLWzFZBmz4VPDyGiNRoVpEn3qA6o6iysSUuuztMrSwTJIcjHEyv-3PPGzZnoADm5o4oSIsOTzdw=w128-h128-e365-rj-sc0x00ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta property="og:title" content="Erin - 极简的 chrome 新标签页插件" />
       <meta property="og:description" content="重新定义你的 chrome 新标签页，配合精美的 UI 界面，再集成许多实用的功能" />
@@ -26,10 +28,10 @@ export default {
     )
   },
   banner: {
-    key: '0.1.8-release',
+    key: '0.1.9-release',
     text: (
       <a href="https://chrome.google.com/webstore/detail/erin/nobdiagkeelcndaijbdninbmjkdahggd?hl=zh-CN&authuser=0" target="_blank">
-        🎉 Erin 发布了 v0.1.8 版本，快来下载安装 →
+        🎉 Erin 发布了 v0.1.9 版本，快来下载安装 →
       </a>
     )
   },
