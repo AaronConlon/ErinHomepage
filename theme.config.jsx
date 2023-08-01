@@ -28,10 +28,10 @@ export default {
     )
   },
   banner: {
-    key: '0.1.10-release',
+    key: '0.2.1-release',
     text: (
       <a href="https://chrome.google.com/webstore/detail/erin/nobdiagkeelcndaijbdninbmjkdahggd?hl=zh-CN&authuser=0" target="_blank">
-        🎉 Erin 发布了 v0.1.12 版本，快来下载安装 →
+        🎉 Erin 发布了 v0.2.1 版本，快来下载安装 →
       </a>
     )
   },
