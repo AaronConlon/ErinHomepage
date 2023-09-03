@@ -3,7 +3,7 @@ export default {
     <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
       <img
         style={{ width: "32px" }}
-        src="https://lh3.googleusercontent.com/LcAQ86qgz4NsdEhFLWzFZBmz4VPDyGiNRoVpEn3qA6o6iysSUuuztMrSwTJIcjHEyv-3PPGzZnoADm5o4oSIsOTzdw=w128-h128-e365-rj-sc0x00ffffff"
+        src="https://lh3.googleusercontent.com/QYboAltyb8rm_Tavk1gJMQRL20lZcC3fYPsAoIhC7lQXhF6FBQ55l6t8xdztW7WRhjpYCAXdsTxuQx9JRgsKY0HDXgs=w128-h128-e365-rj-sc0x00ffffff"
       />
       <span>Erin</span>
     </div>
@@ -17,7 +17,7 @@ export default {
       <link
         rel="icon"
         type="image/x-icon"
-        href="https://lh3.googleusercontent.com/LcAQ86qgz4NsdEhFLWzFZBmz4VPDyGiNRoVpEn3qA6o6iysSUuuztMrSwTJIcjHEyv-3PPGzZnoADm5o4oSIsOTzdw=w128-h128-e365-rj-sc0x00ffffff"
+        href="https://lh3.googleusercontent.com/QYboAltyb8rm_Tavk1gJMQRL20lZcC3fYPsAoIhC7lQXhF6FBQ55l6t8xdztW7WRhjpYCAXdsTxuQx9JRgsKY0HDXgs=w128-h128-e365-rj-sc0x00ffffff"
       />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta property="og:title" content="Erin - 极简的 chrome 新标签页插件" />
@@ -46,7 +46,7 @@ export default {
         href="https://chrome.google.com/webstore/detail/erin/nobdiagkeelcndaijbdninbmjkdahggd?hl=zh-CN&authuser=0"
         target="_blank"
       >
-        🎉 Erin 发布了 v0.2.3 版本，快来下载安装 →
+        🎉 Erin 发布了 v0.2.8 版本，新增每日壁纸尝鲜功能，快来下载安装吧 →
       </a>
     ),
   },
