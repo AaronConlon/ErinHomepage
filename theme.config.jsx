@@ -46,7 +46,7 @@ export default {
         href="https://chrome.google.com/webstore/detail/erin/nobdiagkeelcndaijbdninbmjkdahggd?hl=zh-CN&authuser=0"
         target="_blank"
       >
-        🎉 Erin 发布了 v0.2.8 版本，新增每日壁纸尝鲜功能，快来下载安装吧 →
+        🎉 Erin 发布了 v0.3.0 版本，新增了一个神秘的功能，快来下载安装吧 →
       </a>
     ),
   },
