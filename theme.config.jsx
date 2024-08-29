@@ -40,13 +40,13 @@ export default {
     ),
   },
   banner: {
-    key: "0.2.1-release",
+    key: "0.3.2-release",
     text: (
       <a
         href="https://chrome.google.com/webstore/detail/erin/nobdiagkeelcndaijbdninbmjkdahggd?hl=zh-CN&authuser=0"
         target="_blank"
       >
-        🎉 Erin 发布了 v0.3.0 版本，新增了一个神秘的功能，快来下载安装吧 →
+        🎉 Erin 发布了 v0.3.2 版本，欢迎下载体验 →
       </a>
     ),
   },
