@@ -29,7 +29,7 @@ export default {
   ),
   darkMode: true,
   chat: {
-    link: "https://twitter.com/miaocai0",
+    link: "https://twitter.com/aaronconlondev",
     icon: (
       <svg width="24" height="24" viewBox="0 0 248 204">
         <path
